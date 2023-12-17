@@ -1,3 +1,18 @@
+## mongo 
+
+```sh
+brew tap mongodb/brew
+brew install mongodb-community
+brew services start mongodb-community
+brew services list
+brew services stop mongodb-community
+brew services restart mongodb-community
+
+
+
+
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
